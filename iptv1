@@ -126,3 +126,6 @@ https://i.mjh.nz/au/Melbourne/tv.3aw.melbourne.m3u8|X-Forwarded-For=52.62.247.23
 #EXTINF:-1 tvg-id="24horas.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="" group-title="News",24 Horas (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/24HORAS/live
 
+#EXTINF:-1 tvg-id="AntofagastaTVATV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="" group-title="Local",Antofagasta TV (ATV) (1080p)
+https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
+
