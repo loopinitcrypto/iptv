@@ -124,19 +124,19 @@ https://i.mjh.nz/au/Melbourne/tv.acctv.m3u8|X-Forwarded-For=52.62.247.239&User-A
 https://i.mjh.nz/au/Melbourne/tv.3aw.melbourne.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
 #EXTINF:-1 tvg-id="452" tvg-name="TVN" tvg-logo="https://www.m3u.cl/logo/452_TVN.png", TVN | CL
-https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8?PlaylistM3UCL
+https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="453" tvg-name="TVN - 24h" tvg-logo="https://www.m3u.cl/logo/453_TVN___24h.png", TVN - 24h | CL
-http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
 
 #EXTINF:-1 tvg-id="457" tvg-name="Canal 13" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png", Canal 13 | CL
-https://cl-canal13-13now-live.ned.media/live.m3u8?PlaylistM3UCL
+https://cl-canal13-13now-live.ned.media/live.m3u8
 
 #EXTINF:-1 tvg-id="449" tvg-name="Meganoticias" tvg-logo="https://www.m3u.cl/logo/449_Meganoticias.png", Meganoticias | CL
-http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
+http://www.m3u.cl/channel/meganoticias.php
 
 #EXTINF:-1 tvg-id="360" tvg-name="Osorno TV+" tvg-logo="https://www.m3u.cl/logo/360_Osorno_TV_.png", Osorno TV+ | CL
-https://hd.chileservidores.cl:1936/osorno2/live/playlist.m3u8?PlaylistM3UCL
+https://hd.chileservidores.cl:1936/osorno2/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="514" tvg-name="RTVE24" tvg-logo="https://www.m3u.cl/logo/514_RTVE24.png", RTVE24 | ES
-https://rtvelivestream.akamaized.net/24h_dvr_4000.m3u8?PlaylistM3UCL
+https://rtvelivestream.akamaized.net/24h_dvr_4000.m3u8
