@@ -7,3 +7,5 @@ Channels should load, lots of the chilean channels have trouble loading overseas
 Most of the links I got from these places https://github.com/iptv-org/awesome-iptv
 https://www.matthuisman.nz/2019/01/live-au-iptv-channels-on-android.html
 https://m3u.cl/lista-iptv-chile.php
+
+You can make your own IPTV list by forking this or copying the channels you want too and add to them.
