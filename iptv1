@@ -123,11 +123,11 @@ https://i.mjh.nz/au/Melbourne/tv.acctv.m3u8|X-Forwarded-For=52.62.247.239&User-A
 #EXTINF:-1 tvg-id="tv.3aw.melbourne" tvg-logo="https://i.mjh.nz/.images/tv.3aw.melbourne.png",3AW Melbourne
 https://i.mjh.nz/au/Melbourne/tv.3aw.melbourne.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1 tvg-id="TVN" tvg-logo="https://www.m3u.cl/logo/452_TVN.png", TVN | CL
-https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="452" tvg-name="TVN" tvg-logo="https://www.m3u.cl/logo/452_TVN.png", TVN | CL
+https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="TVN24" tvg-logo="https://www.m3u.cl/logo/453_TVN___24h.png", TVN - 24h
-http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
+#EXTINF:-1 tvg-id="453" tvg-name="TVN - 24h" tvg-logo="https://www.m3u.cl/logo/453_TVN___24h.png", TVN - 24h | CL
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Canal13" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png", Canal 13
 https://cl-canal13-13now-live.ned.media/live.m3u8
