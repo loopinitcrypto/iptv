@@ -123,9 +123,6 @@ https://i.mjh.nz/au/Melbourne/tv.acctv.m3u8|X-Forwarded-For=52.62.247.239&User-A
 #EXTINF:-1 tvg-id="tv.3aw.melbourne" tvg-logo="https://i.mjh.nz/.images/tv.3aw.melbourne.png",3AW Melbourne
 https://i.mjh.nz/au/Melbourne/tv.3aw.melbourne.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1 tvg-id="24horas.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="" group-title="News",24 Horas (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/24HORAS/live
-
 #EXTINF:-1 tvg-id="AntofagastaTVATV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="" group-title="Local",Antofagasta TV (ATV) (1080p)
 https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 
@@ -137,9 +134,6 @@ http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
 
 #EXTINF:-1 tvg-id="K18JLD2.us" tvg-country="US;HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4ydVVIA.png" group-title="Religious",3ABN Latino (720p) [Not 24/7]
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-
-#EXTINF:-1 tvg-id="24horas.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="" group-title="News",24 Horas (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/24HORAS/live
 
 #EXTINF:-1 tvg-id="ASondeSalsa.pa" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/asondesalsa/picture?width=320&height=320" group-title="Music",A Son de Salsa (720p) [Not 24/7]
 https://stmv1.panelzcast.com/asondesalsa/asondesalsa/playlist.m3u8
