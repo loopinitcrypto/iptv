@@ -1,16 +1,16 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-id="tv.101406030633" tvg-logo="https://i.mjh.nz/.images/tv.101406030633.png",10 SHAKE
-https://i.mjh.nz/au/Melbourne/tv.101406030633.m3u8
+https://d1nti87v55zvqc.cloudfront.net/out/v1/8a1d942f281143e0b5d1e0b5179fc160/index.m3u8
 
 #EXTINF:-1 tvg-id="tv.101406030638" tvg-logo="https://i.mjh.nz/.images/tv.101406030638.png",10 Peach
-https://i.mjh.nz/au/Melbourne/tv.101406030638.m3u8
+https://live.10play.com.au/10PeachVIC/stream.m3u8
 
 #EXTINF:-1 tvg-id="tv.101406030637" tvg-logo="https://i.mjh.nz/.images/tv.101406030637.png",10 BOLD
-https://i.mjh.nz/au/Melbourne/tv.101406030637.m3u8
+https://live.10play.com.au/10BoldVIC/stream.m3u8
 
 #EXTINF:-1 tvg-id="tv.101406030635" tvg-logo="https://i.mjh.nz/.images/tv.101406030635.png",10
-https://i.mjh.nz/au/Melbourne/tv.101406030635.m3u8
+https://live.10play.com.au/10VIC/stream.m3u8
 
 #EXTINF:-1 tvg-id="tv.7openshop" tvg-logo="http://i.mjh.nz/.images/tv.7openshop.png",openshop
 https://i.mjh.nz/au/Melbourne/tv.7openshop.m3u8
